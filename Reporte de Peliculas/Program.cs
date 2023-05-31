@@ -18,7 +18,7 @@ namespace Reporte_de_Peliculas
         */
         static void Main(string[] args)
         {
-            string entrada;
+            string entrada; //Esto es una entrada
 
             do
             {
