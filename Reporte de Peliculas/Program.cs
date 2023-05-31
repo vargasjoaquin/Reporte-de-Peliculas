@@ -18,12 +18,12 @@ namespace Reporte_de_Peliculas
         */
         static void Main(string[] args)
         {
-            string entrada;
+            string entrada; //Esto es una entrada
 
             do
             {
 
-                Console.Clear();
+                Console.Clear(); //Esto es un limpiador de la pantalla
 
                 mostrarMenu();
 
