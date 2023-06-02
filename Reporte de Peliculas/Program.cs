@@ -62,7 +62,7 @@ namespace Reporte_de_Peliculas
             Console.Write("Ingrese la opcion deseada: ");
         }
 
-        static void escribirArchivo()
+        static void escribirArchivo() //Esta funcion escribe el archivo
         {
 
             Console.Clear();
