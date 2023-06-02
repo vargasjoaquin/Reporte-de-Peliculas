@@ -25,7 +25,7 @@ namespace Reporte_de_Peliculas
 
                 Console.Clear(); //Esto es un limpiador de la pantalla
 
-                mostrarMenu();
+                mostrarMenu(); //Esta funcion muestra el menu del programa
 
                 entrada = Console.ReadLine();
 
